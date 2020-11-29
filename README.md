@@ -5,3 +5,6 @@ As of scikit-learn version 21.0, from  May 2019, Decision Trees can now be plott
 <p> The code below plots a decision tree using scikit-learn. </p>
 
 <code> tree.plot_tree(clf); </code>
+
+
+<img src="https://github.com/HarunHM/Visualize-Decision-Trees-using-Matplotlib/blob/main/1_vSfCtg71cwuSGDpGJU6STg.png" />
